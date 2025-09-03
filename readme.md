@@ -71,5 +71,5 @@ This dashboard serves as a powerful tool for monitoring, benchmarking, and impro
 
 ## ⚠️ Disclaimer
 
-- **This project uses sample / anonymized data for demonstration.
-- **It is intended solely as a data analytics and visualization case study to showcase technical and analytical skills.
+- This project uses sample / anonymized data for demonstration.
+- It is intended solely as a data analytics and visualization case study to showcase technical and analytical skills.
