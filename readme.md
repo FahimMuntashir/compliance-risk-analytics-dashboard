@@ -36,8 +36,11 @@ This dashboard serves as a powerful tool for monitoring, benchmarking, and impro
 ## 📷 Dashboard Preview
 *(Sample views from the Power BI report)*  
 
-![Dashboard Preview 1](images/preview1.png)  
-![Dashboard Preview 2](images/preview2.png)  
+![Dashboard Preview 1](images/preview1.jpg)  
+![Dashboard Preview 2](images/preview2.jpg)
+![Dashboard Preview 2](images/preview3.jpg)
+![Dashboard Preview 2](images/preview4.jpg)
+
 
 > Full dashboard PDF: [`Compliance_Risk_Analytics_Dashboard.pdf`](./dashboard/Compliance_Risk_Analytics_Dashboard.pdf)
 
@@ -54,10 +57,19 @@ This dashboard serves as a powerful tool for monitoring, benchmarking, and impro
 ## 📂 Repository Structure
 ```bash
 .
-├── dashboard/                      # Power BI files & exports
+├── dashboard/                      
 │   ├── Compliance_Risk_Analytics_Dashboard.pbix
 │   └── Compliance_Risk_Analytics_Dashboard.pdf
-├── images/                         # Dashboard preview screenshots
-├── data/                           # (Optional) Sample / anonymized dataset
-├── README.md                       # Project documentation
+├── images/                         
+├── data/                           
+├── README.md                       
 
+
+```
+
+---
+
+## ⚠️ Disclaimer
+
+- **This project uses sample / anonymized data for demonstration.
+- **It is intended solely as a data analytics and visualization case study to showcase technical and analytical skills.
